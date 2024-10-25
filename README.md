@@ -7,7 +7,7 @@
 
 # YouTube Clone
 
-Just an old project I did. A simple YouTube clone in pure HTML/CSS!
+A simple YouTube clone in pure HTML/CSS!
 
 ![youtube](./images/youtube.png)
 
